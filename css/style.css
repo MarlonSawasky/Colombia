@@ -1,5 +1,5 @@
 :root{
-    --bg-primary: red;  
+    --bg-primary: rgb(228, 211, 228);  
     --text-primary: yellow; 
 }
 *{
